@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-microsoft-clarity",
+  "version": "1.0.0",
+  "description": "NuxtJS plugin for injecting miscrosoft clarity script tag into the page",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idlatest/nuxt-microsoft-clarity.git"
+  },
+  "keywords": [
+    "nuxt",
+    "microsoft",
+    "clarity",
+    "nuxtjs",
+    "plugin",
+    "plugin"
+  ],
+  "author": "Idongesit Ntuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idlatest/nuxt-microsoft-clarity/issues"
+  },
+  "homepage": "https://github.com/idlatest/nuxt-microsoft-clarity#readme"
+}
