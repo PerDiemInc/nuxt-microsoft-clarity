@@ -1,6 +1,6 @@
 {
   "name": "nuxt-microsoft-clarity",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NuxtJS plugin for injecting miscrosoft clarity script tag into the page",
   "main": "lib/module.js",
   "scripts": {
