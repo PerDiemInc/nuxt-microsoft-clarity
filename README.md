@@ -76,7 +76,7 @@ Add `msc` section in `nuxt.config.js` to set the module options:
 The following options can be configured in the module's configuration entry in your `nuxt.config.js` file
 
 ### Microsoft Clarity ID - `id`
-- ### Required
-- ### Default: `null`
+- #### Required
+- #### Default: `null`
 ## Usage 
  Starts tracking automatically if everything goes well. Note: It takes upto 2 hours before data start showing up on Microsoft Clarity dashboard
