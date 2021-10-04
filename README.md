@@ -79,4 +79,4 @@ The following options can be configured in the module's configuration entry in y
 - Required
 - Default: `null`
 ## Usage 
- Starts tracking automatically if everything goes well. Note: It takes upto 2 hours before data start showing up on Microsoft Clarity dashboard
+ Starts tracking automatically if everything goes well. Note: It takes maximum duration of 2 hours before data start showing up on Microsoft Clarity dashboard
