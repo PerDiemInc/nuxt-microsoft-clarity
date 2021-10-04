@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-microsoft-clarity",
-  "version": "1.0.0",
+  "name": "nuxtjs-microsoft-clarity",
+  "version": "1.0.1",
   "description": "NuxtJS plugin for injecting Microsoft clarity script tag into the page",
   "main": "lib/module.js",
   "scripts": {
@@ -17,6 +17,16 @@
     "nuxtjs",
     "plugin",
     "plugin"
+  ],
+  "contributors": [
+    {
+      "name" : "Idongesit Ntuk",
+      "email" : "idongesit@per-diem.co"
+    },
+    {
+      "name" : "Doron Segal",
+      "email" : "doron@per-diem.co"
+    }
   ],
   "author": "Per Diem inc",
   "license": "MIT",
