@@ -4,7 +4,8 @@
   "description": "NuxtJS plugin for injecting Microsoft clarity script tag into the page",
   "main": "lib/module.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint --ext .js,.vue ."
   },
   "repository": {
     "type": "git",
@@ -41,6 +42,8 @@
     "@babel/plugin-transform-runtime": "^7.15.0",
     "@babel/preset-env": "^7.15.6",
     "@nuxt/test-utils": "^0.2.2",
+    "@nuxtjs/eslint-config": "^6.0.1",
+    "eslint": "^7.32.0",
     "jest": "^27.2.4",
     "nuxt-edge": "^2.16.0-27223214.034b9901"
   }
