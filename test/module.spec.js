@@ -11,5 +11,7 @@ describe('My test', () => {
       ssr: false,
       options: getNuxt().options.microsoftClarity
     })
+
+    expect(getNuxt().options.microsoftClarity.id).toBe('test-id')
   })
 })
