@@ -1,4 +1,4 @@
-# Nuxt Microsoft Clarity
+# NuxtJS Microsoft Clarity
 
 A NuxtJS plugin for injecting the Microsoft Clarity script tags into the head section of the HTMl page
 
@@ -17,22 +17,22 @@ A NuxtJS plugin for injecting the Microsoft Clarity script tags into the head se
 ## Install
 ```sh
   # npm
-  $ npm i nuxt-microsoft-clarity --save
+  $ npm i nuxtjs-microsoft-clarity --save
 
   # yarn
-  $ yarn add nuxt-microsoft-clarity
+  $ yarn add nuxtjs-microsoft-clarity
 
 ```
 
 ## Getting Started
-Add `'nuxt-microsoft-clarity'` to the `modules` section of your `nuxt.config.js` file.
+Add `'nuxtjs-microsoft-clarity'` to the `modules` section of your `nuxt.config.js` file.
 
 ### Method 1: Inline configuration entry
 
 ```js
 {
   modules: [
-    'nuxt-microsoft-clarity', {
+    'nuxtjs-microsoft-clarity', {
       // Options
     }
   ],
@@ -45,7 +45,7 @@ Add `microsoftClarity` section in `nuxt.config.js` to set the module options:
 ```js
 {
   modules: [
-    'nuxt-microsoft-clarity'
+    'nuxtjs-microsoft-clarity'
   ],
   microsoftClarity: {
     // Options
@@ -58,7 +58,7 @@ Add `microsoftClarity` section in `nuxt.config.js` to set the module options:
 ```js
 {
   modules: [
-    'nuxt-microsoft-clarity'
+    'nuxtjs-microsoft-clarity'
   ],
   // Use as fallback if no runtime config is provided
   microsoftClarity: {
