@@ -40,7 +40,7 @@ Add `'nuxt-microsoft-clarity'` to the `modules` section of your `nuxt.config.js`
 ```
 
 ### Method 2: External configuration entry
-Add `msc` section in `nuxt.config.js` to set the module options:
+Add `microsoftClarity` section in `nuxt.config.js` to set the module options:
 
 ```js
 {
